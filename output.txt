@@ -1,0 +1,12 @@
+Enter the DFA/NFA file name : input.txt
+Enter a word : abbaaba
+Word abbaaba is not accepted by the automata!
+
+Enter the DFA/NFA file name : input.txt
+Enter a word : aba
+Word aba is accepted by the automata!
+Paths :
+0 1 1 4
+0 2 1 4
+
+
