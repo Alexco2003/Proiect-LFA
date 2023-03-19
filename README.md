@@ -26,8 +26,17 @@ a b\
 2 b 1\
 3 b 5\
 4 a 3\
-4 b 5\
+4 b 5
 
 Example of outputs :
 
-[output.txt](https://github.com/Alexco2003/Proiect-DFA-NFA/files/11011525/output.txt)
+Enter the DFA/NFA file name : input.txt\
+Enter a word : abbaaba\
+Word abbaaba is not accepted by the automata!
+
+Enter the DFA/NFA file name : input.txt\
+Enter a word : aba\
+Word aba is accepted by the automata!\
+Paths :\
+0 1 1 4\
+0 2 1 4
