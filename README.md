@@ -14,7 +14,19 @@ state symbol next_state (this represents the delta function, from state with sym
 
 Example of input file :
 
-[input.txt](https://github.com/Alexco2003/Proiect-DFA-NFA/files/11011524/input.txt)
+6\
+a b\
+0\
+4 5\
+0 a 1\
+0 a 2\
+1 b 3\
+1 b 1\
+1 a 4\
+2 b 1\
+3 b 5\
+4 a 3\
+4 b 5\
 
 Example of outputs :
 
