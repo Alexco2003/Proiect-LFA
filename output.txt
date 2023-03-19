@@ -8,5 +8,3 @@ Word aba is accepted by the automata!
 Paths :
 0 1 1 4
 0 2 1 4
-
-
