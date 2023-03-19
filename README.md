@@ -1,2 +1,2 @@
-# Proiect-DFA-NFA
+# Proiect LFA DFA&NFA
 DFA &amp; NFA
