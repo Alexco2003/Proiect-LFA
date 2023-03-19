@@ -8,8 +8,8 @@
  
 n (total number of states) \
 sigma (alphabet) \
-index of the initial state \
-list of all the indexes of the final states \
+initial state \
+list of all the final states \
 state symbol next_state (this represents the delta function, from state with symbol we get to next_state)
 
 Example of input file :
